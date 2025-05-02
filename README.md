@@ -15,6 +15,9 @@
 - Three/fibre
 - Three/drei
 
+### 🖥️ Code
+[molecule app code](https://github.com/ummagohil/molecule-app-code)
+
 ### 👀View App
 [molecule app
 ](https://mol-3d-image.vercel.app/)
